@@ -1,7 +1,4 @@
-**Here’s a detailed README that includes your recommended usage instructions, a clear description of the file’s purpose, and additional context to help users get the most out of it.
-**
-
-n8n Code Node Reference & AI-Assisted Function Writing Guide
+**n8n Code Node Reference & AI-Assisted Function Writing Guide**
 
 Overview
 
